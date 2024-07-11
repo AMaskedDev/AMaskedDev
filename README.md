@@ -1,14 +1,14 @@
 # Welcome to My GitHub Profile! 👋
 
-Hey there! I'm Sproute, a 13-year-old programmer and game development enthusiast from Greece! Welcome to my GitHub, where I explore various coding projects and enjoy diving into programming challenges.
+Hey there! I'm Sproute, a 13-year-old boy from Greece! Welcome to my GitHub :-)
 
 ## About Me
 
-- 🌟 **Programmer:** I love coding and exploring new technologies.
-- 🎮 **Game Development Hobbyist:** I enjoy creating games when i feel like it, but I get bored and never finish them.
-- 🔧 **Skid Reverse Engineer:** Sometimes I reverse engineer stuff just for fun and to learn.
-- 🥋 **Kickboxing Enthusiast:** I like kickboxing (I have a yellow belt [7/11/2024])
-- 😈 **Gaming Gamer:** I enjoy gaming and also using my coding skillz to have unfair advantage.
+- **Programmer:** I love coding and exploring new technologies.
+- **Game Dev Hobbyist:** I enjoy creating games when i feel like it, but I get bored and never finish them.
+- **Skid Reverse Engineer:** Sometimes I reverse engineer stuff just for fun and to learn.
+- **Kickboxing Enthusiast:** I like kickboxing (I have a yellow belt [7/11/2024])
+- **Gaming Gamer:** I enjoy gaming and also using my coding skillz to have unfair advantage.
 
 Feel free to explore my repositories and get inspired! Each project is a learning journey for me, and I hope they spark your curiosity too.
 
