@@ -14,8 +14,8 @@ Feel free to explore my repositories and get inspired! Each project is a learnin
 
 ## Let's Connect!
 
-- 📫 **Email:** [amaskeddev@gmail.com](mailto:amaskeddev@gmail.com)
-- 🔗 **Discord:** [discord.com](sproute_rl)
+- **Email:** [amaskeddev@gmail.com](mailto:amaskeddev@gmail.com)
+- **Discord:** [discord.com](sproute_rl)
 
 ## Contributing
 
