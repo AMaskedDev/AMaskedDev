@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile! 👋
+# Welcome to My GitHub Profile! 
 
 Hey there! I'm Sproute, a 13-year-old boy from Greece! Welcome to my GitHub :-)
 
